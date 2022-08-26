@@ -29,6 +29,7 @@ align-self: center;
 }
 .fiona{
 order: 1;
+align-self: stretch;
 }
 .gato{
 order: 2;
